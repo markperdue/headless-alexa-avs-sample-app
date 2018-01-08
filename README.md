@@ -10,7 +10,7 @@
 
 1. Clone the git using:  
 ```
-git clone https://github.com/shivasiddharth/headless-alexa-avs-sample-app  
+git clone https://github.com/markperdue/headless-alexa-avs-sample-app  
 ```
 
 2. Check and verify the path of the installed alexa-avs-sample-app in the clientstart.sh, companionstart.sh	and wakeword.sh scripts  
