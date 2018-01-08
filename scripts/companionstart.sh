@@ -1,3 +1,2 @@
 #!/bin/bash
-cd ~/alexa-avs-sample-app/samples
-cd companionService && sudo npm start
+cd ~/alexa-avs-sample-app/samples/companionService && npm start
